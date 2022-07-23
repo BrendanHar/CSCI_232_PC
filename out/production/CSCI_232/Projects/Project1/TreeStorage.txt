@@ -1,0 +1,2 @@
+            "furry, dog"
+"bipedal, human"    "scaly, lizard"
